@@ -1,0 +1,462 @@
+[33m[nodemon] 2.0.20[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Send a messege from here:
+$ INPUT-> Socket.IO server running at http://localhost:3000/

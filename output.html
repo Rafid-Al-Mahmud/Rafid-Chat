@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logs</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            background-color: #263038;
+            color: #ffffff;
+        }
+
+        div {
+            background-color: #2D3943;
+            color: #ffffff;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        div>h3 {
+            width: 50%;
+        }
+
+        #msg {
+            word-wrap: break-word;
+            overflow: hidden;
+        }
+    </style>
+</head>
+
+<body>
+    <center>
+        <h1>LOGS</h1>
+    </center>
+    <div>
+        <h3>
+            <pre id="msg"></pre>
+        </h3>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        var socket = io();
+        const messages = document.querySelector("#msg");
+        socket.on('output_logs', function (logs) {
+            messages.innerText = logs;
+            for (let i = 0; i < document.querySelectorAll("#msg>br").length; i++) {
+                document.querySelectorAll("#msg>br")[i].outerHTML = "<hr> $ LOG ~ " + (i + 2) + ": ";
+            }
+            window.scrollTo(0, document.body.scrollHeight);
+        });
+    </script>
+</body>
+
+</html>
