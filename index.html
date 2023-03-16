@@ -52,7 +52,7 @@
 
             messages.appendChild(_msg);*/
             
-            messages.innerHTML=`<li><span id="username">${_username}</span>${_msg}</li>`;
+            messages.innerHTML+=`<li><span id="username">${_username}</span>${_msg}</li>`;
             window.scrollTo(0, document.body.scrollHeight);
           });
       });
