@@ -35,20 +35,21 @@
       form.addEventListener('submit', function(e) {
         e.preventDefault();
         if (input.value) {
-          socket.emit('chat message', `${input.value}`);
-          socket.emit('chat username', `${getCookie("username")}`);
+          socket.emit('chat message', input.value);
+          socket.emit('chat username', getCookie("username"));
           input.value = '';
         }
       });
 
       socket.on('chat username', function(_username) {
+document.querySelector("#username").innerHTML=_username;
+      });
+var _username = document.querySelector("#username").innerHTML;
           socket.on('chat message', function(_msg) {
             messages.innerHTML+=`<li><span id="username">@${_username}</span>: ${_msg}</li>`;
             console.log(`<li><span id="username">@${_username}</span>: ${_msg}</li>`);
             window.scrollTo(0, document.body.scrollHeight);
           });
-      });
-      
       function checkCookie() {
         let user = getCookie("username");
         if (user != "") {
