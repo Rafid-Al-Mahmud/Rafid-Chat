@@ -16,7 +16,7 @@ app.get('/output', (req, res) => {
 
 io.on('connection', (socket) => {
   socket.on('chat message', msg => {
-    io.emit('chat message', "One Client: " + msg);
+    io.emit('chat message', msg); //"One Client: " + 
     console.log("\nOne Client: " + msg);
     process.stdout.write(inpt);
     fs.readFile("output.txt", 'utf8', (err, data) => io.emit('output_logs', data));
