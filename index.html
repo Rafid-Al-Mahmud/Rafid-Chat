@@ -13,6 +13,7 @@
       #messages { list-style-type: none; margin: 0; padding: 0; }
       #messages > li { padding: 0.5rem 1rem; }
       #messages > li:nth-child(odd) { background: #efefef; }
+      #username { color: red;}
     </style>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
@@ -34,7 +35,7 @@
       form.addEventListener('submit', function(e) {
         e.preventDefault();
         if (input.value) {
-          socket.emit('chat message', getCookie("username")+": "+input.value);
+          socket.emit('chat message', `<span id="username">${getCookie("username")}:</span> ${input.value}`);
           input.value = '';
         }
       });
