@@ -16,8 +16,14 @@ app.get('/output', (req, res) => {
 
 io.on('connection', (socket) => {
   socket.on('chat message', msg => {
-    io.emit('chat message', msg); //"One Client: " + 
+    io.emit('chat message', msg);
     console.log("\nOne Client: " + msg);
+    process.stdout.write(inpt);
+    fs.readFile("output.txt", 'utf8', (err, data) => io.emit('output_logs', data));
+  });
+  socket.on('chat username', username => {
+    io.emit('chat username', username);
+    console.log("\nOne Client: " + username);
     process.stdout.write(inpt);
     fs.readFile("output.txt", 'utf8', (err, data) => io.emit('output_logs', data));
   });
