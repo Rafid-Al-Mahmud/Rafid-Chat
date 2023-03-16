@@ -43,14 +43,16 @@
 
       socket.on('chat username', function(_username) {
           socket.on('chat message', function(_msg) {
-            var msg = document.createElement('li');
+            /*var msg = document.createElement('li');
             msg.textContent = _msg;
 
             var username = document.createElement('span');
             username.textContent = _username;
             username.id = "username";
 
-            messages.appendChild(_msg+_username);
+            messages.appendChild(_msg);*/
+            
+            messages.innerHTML=`<li><span id="username">${_username}</span>${_msg}</li>`;
             window.scrollTo(0, document.body.scrollHeight);
           });
       });
