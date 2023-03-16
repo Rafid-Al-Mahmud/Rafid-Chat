@@ -35,7 +35,7 @@
       form.addEventListener('submit', function(e) {
         e.preventDefault();
         if (input.value) {
-          socket.emit('chat message', `<span id="username">${getCookie("username")}:</span> ${input.value}`);
+          socket.emit('chat message', `${getCookie("username")}: ${input.value}`);
           input.value = '';
         }
       });
