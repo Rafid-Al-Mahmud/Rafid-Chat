@@ -35,16 +35,24 @@
       form.addEventListener('submit', function(e) {
         e.preventDefault();
         if (input.value) {
-          socket.emit('chat message', `${getCookie("username")}: ${input.value}`);
+          socket.emit('chat message', `: ${input.value}`);
+          socket.emit('chat username', `${getCookie("username")}`);
           input.value = '';
         }
       });
 
-      socket.on('chat message', function(msg) {
-        var item = document.createElement('li');
-        item.textContent = msg;
-        messages.appendChild(item);
-        window.scrollTo(0, document.body.scrollHeight);
+      socket.on('chat username', function(_username) {
+          socket.on('chat message', function(_msg) {
+            var msg = document.createElement('li');
+            msg.textContent = _msg;
+
+            var username = document.createElement('span');
+            username.textContent = _username;
+            username.id = "username";
+
+            messages.appendChild(_msg+_username);
+            window.scrollTo(0, document.body.scrollHeight);
+          });
       });
       
       function checkCookie() {
